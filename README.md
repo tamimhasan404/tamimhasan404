@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Tamim Hasan</h1>
+<h3 align="center">A Boy Who loves To Break The Security</h3>
 
-<!--
-**tamimhasan404/tamimhasan404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Bug Hunting,Penetration Testing**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **@TamimHa69587900**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact **Loading........**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://mobile.twitter.com/tamimha69587900" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://mobile.twitter.com/tamimha69587900" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/tamim404_hasan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tamim404_hasan/" height="30" width="40" /></a>
+<a href="https://medium.com/@tamimhasan404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tamimhasan404" height="30" width="40" /></a>
+</p>
