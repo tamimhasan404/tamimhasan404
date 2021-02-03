@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Bug Hunting,Penetration Testing**
 
-- 📫 How to reach me **@TamimHa69587900**
+- 📫 How to reach me **https://twitter.com/TamimHa69587900**
 
 - ⚡ Fun fact **Loading........**
 
