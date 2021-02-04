@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Tamim Hasan</h1>
 <h3 align="center">A Boy Who loves To Break The Security</h3>
 
-- 🌱 I’m currently learning **Bug Hunting,Penetration Testing**
+- 👨‍💻 I’m a Security Researcher / Pentester / Bug Hunter
 
 - 📫 How to reach me **https://www.facebook.com/tamimhasan404/**
 
+- 😄 Pronouns He/Him
+
+- 💬 Ask me about Bug Hunting,Penetration Testing
+
 - ⚡ Fun fact **Loading........**
+
+- ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
