@@ -7,7 +7,7 @@
 
 - 😄 Pronouns He/Him
 
-- 💬 Ask me about Bug Hunting,Penetration Testing
+- 💬 Ask me about Bug Hunting/Penetration Testing
 
 - ⚡ Fun fact **Loading........**
 
