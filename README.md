@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Tamim Hasan</h1>
 <h3 align="center">A Boy Who loves To Break The Security</h3>
+
+Hi 👋, I'm Tamim Hasan. I am an ethical hacker and web app penetration tester. I am also doing bug hunting more than 1+ year. I have knowledge about Owasp Top 10 and some other vulnerabilities. I always try to keep myself up to date in this field. Besides all of this, I am a volunteer in Cyber Crime Awareness and Networking Society(CAN Society).
+
+
+<img width="450" align="right" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/gif_code.gif">
+
 
 - 👨‍💻 I’m a Security Researcher / Pentester / Bug Hunter
 
