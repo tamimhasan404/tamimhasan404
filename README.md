@@ -16,11 +16,11 @@ Hi 👋, I'm Tamim Hasan. I am an ethical hacker and web app penetration tester.
 
 - ⚡ Fun fact **Loading........**
 
-- ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
+- ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁 
+- ![](https://visitor-badge.laobi.icu/badge?page_id=tamimhasan404.tamimhasan404)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamimhasan404&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,3 +29,4 @@ Hi 👋, I'm Tamim Hasan. I am an ethical hacker and web app penetration tester.
 <a href="https://www.linkedin.com/in/tamimhasan404/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tamim404_hasan/" height="30" width="40" /></a>
 <a href="https://medium.com/@tamimhasan404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tamimhasan404" height="30" width="40" /></a>
 </p>
+-
