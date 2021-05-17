@@ -17,7 +17,8 @@ Hi 👋, I'm Tamim Hasan. I am an ethical hacker and web app penetration tester.
 - ⚡ Fun fact **Loading........**
 
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁 
-- ![](https://visitor-badge.laobi.icu/badge?page_id=tamimhasan404.tamimhasan404)
+- ![](https://visitor-badge.laobi.icu/badge?page_id=tamimhasan404.tamimhasan404) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamimhasan404&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
