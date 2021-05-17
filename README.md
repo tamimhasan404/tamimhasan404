@@ -19,7 +19,7 @@ Hi 👋, I'm Tamim Hasan. I am an ethical hacker and web app penetration tester.
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamimhasan404&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamimhasan404&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
 <h3 align="left">Connect with me:</h3>
