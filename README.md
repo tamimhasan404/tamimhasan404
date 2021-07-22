@@ -1,6 +1,6 @@
 <h3 align="center">A Boy Who loves To Break The Security ⚔</h3>
 
-Hi 👋, I'm Tamim Hasan.An ethical hacker and web app penetration tester. I am also doing bug hunting more than 1+ years. I have knowledge about Owasp Top 10 and some other vulnerabilities. I always try to keep myself up to date in this field. Besides all of this, I am a writer in InfoSec WriteUps Publication(one of the popular repo in medium) and volunteer in Cyber Crime Awareness and Networking Society(CAN Society).
+Hi 👋, I'm Tamim Hasan.An ethical hacker and web app penetration tester. I am also doing bug hunting more than 1+ years. I have knowledge about Owasp Top 10 and some other vulnerabilities. I always try to keep myself up to date in this field. Besides all of this, I am working as a writer in InfoSec WriteUps Publication(one of the popular repo in medium) and volunteer in Cyber Crime Awareness and Networking Society(CAN Society).
 
 
 <img width="450" align="central" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/gif_code.gif">
