@@ -2,7 +2,7 @@
 
 Hi 👋, I'm Tamim Hasan.I am an ethical hacker and web app penetration tester. I am also doing bug hunting.
 
-I have knowledge about Owasp Top 10 and some other vulnerabilities. I have hands-on experience on Linux, Web, and other open-source tools like Burp suite, Owasp zap, Acunetix, Nessus, Nmap, Nikto, Fuff, and other custom tools. For finding security flaws I am also acknowledged by many companies.
+I have hands-on experience in Owasp top 10, finding bugs, penetration, Linux, windows, Parrot, Burp-Suite, Nmap, and other open-source or custom tools. For finding security flaws I was also acknowledged by many top organizations in the world.
 
 I always try to keep myself up to date in this field. Besides all of this, I am working as a writer in InfoSec WriteUps Publication(one of the large repo in medium) and working as a volunteer in Cyber Crime Awareness and Networking Society(CAN Society).
 
