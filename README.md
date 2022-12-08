@@ -1,12 +1,15 @@
 <h3 align="center">A Boy Who loves To Break The Security ⚔</h3>
 
-Hi 👋, I'm Tamim Hasan.I am an Ethical Hacker, Web App Penetration Tester and Bug Hunter.
+Hi 👋, I'm Tamim Hasan.I am an Ethical Hacker || Web App Penetration Tester || Bug Hunter.
 
 💭 Analytical Penetration Tester with hands-on experience in various domains such as security testing and penetration testing. Strong knowledge of Website, Web App, Networking , Operating Systems. Also experience in Black-Box, White-Box, Manual, Automated Penetration Testing. Confident and communicative professional proficient in scripting paired with familiarity of Unix and Windows. 
 
 🎯 Collaborative with team players, committed to working with businesses and organizations to identify and resolve security vulnerabilities and weaknesses affecting digital assets.
 
-👉 Found security flaws and acknowledged by many top organizations like Nokia, Hp, Cisco, Nvidia, Lego etc.
+👉 Found multiple security flaws  and acknowledged by Nokia, Hp, Cisco, Nvidia, Lego etc.
+👉 Rewarded by Netherlands National Cyber Security Center ( NCSC ) for finding security loophole on their web assets.
+👉 Rewarded by RIPE NCC (Réseaux IP Européens Network Coordination Centre) for finding vulnerability on their main domain (ripe.net).
+👉 Contributor in google hacking database(GHDB).
 
 💦 I always try to keep myself up to date in this field. Besides all of this, I am working as a writer in InfoSec WriteUps Publication(largest InfoSec publication on Medium).
 
