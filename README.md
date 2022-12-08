@@ -6,7 +6,7 @@ Hi 👋, I'm Tamim Hasan.I am an Ethical Hacker || Web App Penetration Tester ||
 
 🎯 Collaborative with team players, committed to working with businesses and organizations to identify and resolve security vulnerabilities and weaknesses affecting digital assets.
 
-*  Found multiple security flaws  and acknowledged by Nokia, Hp, Cisco, Nvidia, Lego etc.
+*  Found multiple security flaws  and acknowledged by organization like Nokia, Hp, Cisco, Nvidia, Lego etc.
 *  Rewarded by Netherlands National Cyber Security Center ( NCSC ) for finding security loophole on their web assets.
 *  Rewarded by RIPE NCC (Réseaux IP Européens Network Coordination Centre) for finding vulnerability on their main domain (ripe.net).
 *  Contributor in google hacking database(GHDB).
