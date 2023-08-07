@@ -2,15 +2,15 @@
 
 Hi 👋, I'm Tamim Hasan.I am an Ethical Hacker || Web App Penetration Tester || Bug Hunter.
 
-💭 Analytical Penetration Tester with hands-on experience in various domains such as security testing and penetration testing. Strong knowledge of Website, Web App, Networking , Operating Systems. Also experience in Black-Box, White-Box, Manual, Automated Penetration Testing. Confident and communicative professional proficient in scripting paired with familiarity of Unix and Windows. 
+💭 Analytical Penetration Tester with hands-on experience in various domains such as security testing and penetration testing. Strong knowledge of Website, Web App, Networking, and Operating Systems etc. Also experience in Black-Box, White-Box, Manual, and Automated Penetration Testing. Confident and communicative professional proficient in scripting paired with familiarity of Unix and Windows. 
 
 🎯 Collaborative with team players, committed to working with businesses and organizations to identify and resolve security vulnerabilities and weaknesses affecting digital assets.
 
-*  Found multiple security flaws  and acknowledged by organization like Nokia, Hp, Cisco, Central-Bank, Nvidia, Lego etc.
-*  Rewarded by Netherlands National Cyber Security Center ( NCSC ) for finding security loophole on their web assets.
-*  Rewarded by RIPE NCC (European IP Networks Network Coordination Center) for finding vulnerability on their main domain.
-*  Acknowledged by US Department of Homeland Security(DHS).
-*  Contributor in google hacking database(GHDB).
+*  𝐅𝐨𝐮𝐧𝐝 𝐦𝐮𝐥𝐭𝐢𝐩𝐥𝐞 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐟𝐥𝐚𝐰𝐬  𝐚𝐧𝐝 𝐚𝐜𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞𝐝 𝐛𝐲 𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐭𝐢𝐨𝐧𝐬 𝐥𝐢𝐤𝐞 𝐍𝐨𝐤𝐢𝐚, 𝐇𝐩, 𝐂𝐢𝐬𝐜𝐨, 𝐂𝐞𝐧𝐭𝐫𝐚𝐥 𝐁𝐚𝐧𝐤, 𝐍𝐯𝐢𝐝𝐢𝐚, 𝐋𝐞𝐠𝐨, 𝐞𝐭𝐜.
+*  𝐑𝐞𝐰𝐚𝐫𝐝𝐞𝐝 𝐛𝐲 𝐍𝐞𝐭𝐡𝐞𝐫𝐥𝐚𝐧𝐝𝐬 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐂𝐲𝐛𝐞𝐫 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐂𝐞𝐧𝐭𝐞𝐫 ( 𝐍𝐂𝐒𝐂 ) 𝐟𝐨𝐫 𝐟𝐢𝐧𝐝𝐢𝐧𝐠 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐥𝐨𝐨𝐩𝐡𝐨𝐥𝐞𝐬 𝐨𝐧 𝐭𝐡𝐞𝐢𝐫 𝐰𝐞𝐛 𝐚𝐬𝐬𝐞𝐭𝐬.
+*  𝐑𝐞𝐰𝐚𝐫𝐝𝐞𝐝 𝐛𝐲 𝐑𝐈𝐏𝐄 𝐍𝐂𝐂 (𝐄𝐮𝐫𝐨𝐩𝐞𝐚𝐧 𝐈𝐏 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐂𝐨𝐨𝐫𝐝𝐢𝐧𝐚𝐭𝐢𝐨𝐧 𝐂𝐞𝐧𝐭𝐞𝐫) 𝐟𝐨𝐫 𝐟𝐢𝐧𝐝𝐢𝐧𝐠 𝐯𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐢𝐧 𝐭𝐡𝐞𝐢𝐫 𝐦𝐚𝐢𝐧 𝐝𝐨𝐦𝐚𝐢𝐧.
+*  𝐀𝐜𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞𝐝 𝐛𝐲 𝐭𝐡𝐞 𝐔𝐒 𝐃𝐞𝐩𝐚𝐫𝐭𝐦𝐞𝐧𝐭 𝐨𝐟 𝐇𝐨𝐦𝐞𝐥𝐚𝐧𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲(𝐃𝐇𝐒).
+*  𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐨𝐫 𝐢𝐧 𝐠𝐨𝐨𝐠𝐥𝐞 𝐡𝐚𝐜𝐤𝐢𝐧𝐠 𝐝𝐚𝐭𝐚𝐛𝐚𝐬𝐞(𝐆𝐇𝐃𝐁).
 
 💦 I always try to keep myself up to date in this field. Besides all of this, I am working as a writer in InfoSec WriteUps Publication(largest InfoSec publication on Medium).
 
